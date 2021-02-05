@@ -14,6 +14,7 @@ h1 {
   top: 75px;
   right: 275px;
 }
+
  .img-404 {
   position: fixed;
   left: 25px;
@@ -36,10 +37,6 @@ p {
   padding: 10px 20px 10px 20px;
   text-decoration: none;
   color: white;
-}
-
-.btn:hover{
-
 }
 
 @media screen and (max-width: 302px)  {
