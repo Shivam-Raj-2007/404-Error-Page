@@ -11,8 +11,8 @@ body {
 h1 {
   font-size: 500%;
   position: fixed;
-  top: 150px;
-  right: 250px;
+  top: 75px;
+  right: 275px;
 }
  .img-404 {
   position: fixed;
@@ -22,9 +22,24 @@ h1 {
 
 p {
   position: fixed;
-  top: 350px;
+  top: 275px;
   right: 75px;
   text-align: center;
+}
+
+.btn {
+  background: black;
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  color: white;
+}
+
+.btn:hover{
+
 }
 
 @media screen and (max-width: 302px)  {
