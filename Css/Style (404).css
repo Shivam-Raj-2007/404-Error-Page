@@ -6,11 +6,9 @@ body {
   line-height: 2;
   min-width: 1290px !important;
   overflow-x: hidden;
+  height: 100vh;
 }
-.message{
-  position: absolute;
-  color: black
-}
+
 h1 {
   font-size: 500%;
   position: absolute;
