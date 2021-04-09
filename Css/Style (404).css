@@ -39,8 +39,8 @@ p {
   color: white;
 }
 
-@media screen and (max-width: 302px)  {
-  .img-404 { 
+@media screen and (max-width: 300px)  {
+  .img-404 {
     left: 250px;
   }
 
