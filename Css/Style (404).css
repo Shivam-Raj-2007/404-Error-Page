@@ -5,7 +5,6 @@ body {
   background: #bbdfc8;
   line-height: 2;
   min-width: 1290px !important;
-  overflow-x: hidden;
   height: 100vh;
 }
 
@@ -41,7 +40,7 @@ p {
   color: white;
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 1200px) {
   h1 {
     position: absolute;
     top: 800px;
@@ -56,8 +55,11 @@ p {
     position: absolute;
     top: 100px;
     left: 250px;
-    height: 600px;
+    height: 500px;
   }
+}
+
+@media screen and (max-width: 480px) {
   p{
     font-size: 30px;
   }
